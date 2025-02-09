@@ -12,7 +12,8 @@ console.log("Hitesh")
 let name = "hitesh"
 let age = 18
 let isLoggedIn = false
-let state;
+let state; // undefined
+let temperature = null // null type, when we want there should be no value to be returned.
 
 // number => 2 to power 53
 // bigint
